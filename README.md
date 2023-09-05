@@ -10,11 +10,5 @@ b. open source
 c. Best accuracy
 d. GUI Based Application
 
-10. Limitation And Next Step
-    
-Limitation are :-
 
-a. Mobile Application
-b. Accuracy can be improve
-c. Model Size is heavy(~310 mb )
-d. Feature is limited
+
